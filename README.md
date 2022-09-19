@@ -1,3 +1,6 @@
+# Status Failed
+[![Build Status](https://dev.azure.com/farelas07/CICD/_apis/build/status/farelas07.js-e2e-express-server?branchName=main)](https://dev.azure.com/farelas07/CICD/_build/latest?definitionId=2&branchName=main)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
